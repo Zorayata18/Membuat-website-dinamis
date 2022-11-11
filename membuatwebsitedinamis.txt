@@ -3,3 +3,5 @@ Membuat website dinamis ;
 -praktek 2x sehari dari wpu
 -membuat website jadi dari yt
 -menganilisa program
+-membuat website sendiri
+-kolborasi dengan teman membangun website
